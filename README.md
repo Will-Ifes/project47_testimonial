@@ -4,17 +4,18 @@ Estudo de um cartão de depoimentos que alterna conteúdo, avatar, nome, funçã
 
 **HTML · CSS · JavaScript**
 
-## Contexto
-
 Exercício da série 50 Projects para praticar temporizadores e atualização do DOM.
 
-## O que o projeto apresenta
+## Destaques
 
 - Dados de demonstração organizados em uma lista.
 - Atualização periódica dos elementos da interface.
 - Variação visual entre os depoimentos.
 
-## Por dentro do código
+<details>
+<summary><strong>Organização e código</strong></summary>
+
+### Por dentro do código
 
 | Arquivo | Responsabilidade |
 | --- | --- |
@@ -22,7 +23,12 @@ Exercício da série 50 Projects para praticar temporizadores e atualização do
 | [`index.html`](index.html) | Markup do cartão. |
 | [`style.css`](style.css) | Apresentação e animação. |
 
-## Executar localmente
+</details>
+
+<details>
+<summary><strong>Executar e consultar</strong></summary>
+
+### Executar localmente
 
 Clone o projeto e sirva a pasta com um servidor estático. Com Python 3 instalado:
 
@@ -34,9 +40,14 @@ python3 -m http.server 8080
 
 Abra http://localhost:8080. Não há instalação de dependências ou etapa de build.
 
-## Escopo e evolução
+</details>
 
-Os textos são dados fictícios de demonstração, não recomendações profissionais recebidas. Controle de pausa, navegação manual e preferência por movimento reduzido são melhorias possíveis.
+<details>
+<summary>Escopo e referências</summary>
+
+Os textos são dados fictícios de demonstração, não recomendações profissionais recebidas.
+
+</details>
 
 ---
 

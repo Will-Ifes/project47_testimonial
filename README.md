@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./.github/readme-cover.svg" alt="Vozes em movimento: Um componente, vários estados de conteúdo." width="100%" />
+</p>
+
 # Depoimentos · componente com rotação automática
 
 Estudo de um cartão de depoimentos que alterna conteúdo, avatar, nome, função e cor de fundo.
@@ -5,6 +9,13 @@ Estudo de um cartão de depoimentos que alterna conteúdo, avatar, nome, funçã
 **HTML · CSS · JavaScript**
 
 Exercício da série 50 Projects para praticar temporizadores e atualização do DOM.
+
+## Explore o diferencial
+
+| Ponto de entrada | O que observar |
+| --- | --- |
+| [Rotação de conteúdo](script.js) | Uma lista de dados e um temporizador atualizam o mesmo cartão. |
+| [Transição visual](style.css) | Avatar, texto e apresentação compõem um pequeno componente de feedback. |
 
 ## Destaques
 
